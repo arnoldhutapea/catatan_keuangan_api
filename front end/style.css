@@ -1,0 +1,48 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #f5f5f5;
+  padding: 20px;
+}
+
+.container {
+  max-width: 800px;
+  margin: auto;
+  background: white;
+  padding: 20px;
+  border-radius: 8px;
+}
+
+form {
+  margin-bottom: 20px;
+}
+
+form input,
+form select {
+  padding: 10px;
+  margin-right: 10px;
+  margin-bottom: 10px;
+  width: 200px;
+}
+
+form button {
+  padding: 10px 20px;
+  background: #27ae60;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+table th,
+table td {
+  padding: 10px;
+  border: 1px solid #ddd;
+}
+
+h1, h2 {
+  color: #2c3e50;
+}
