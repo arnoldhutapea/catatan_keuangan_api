@@ -1,0 +1,27 @@
+[{
+  "_id": {
+    "$oid": "68874535c2dc1bb401208c28"
+  },
+  "title": "Oli MPX ",
+  "amount": 50000,
+  "type": "Pengeluaran",
+  "date": "2025-07-28T16:39:01.779635"
+},
+{
+  "_id": {
+    "$oid": "68874577c2dc1bb401208c29"
+  },
+  "title": "Es teh Besar ",
+  "amount": 5000,
+  "type": "Pengeluaran",
+  "date": "2025-07-28T16:40:07.872491"
+},
+{
+  "_id": {
+    "$oid": "6887459bc2dc1bb401208c2a"
+  },
+  "title": "Es teh Kecil ",
+  "amount": 3000,
+  "type": "Pengeluaran",
+  "date": "2025-07-28T16:40:43.950504"
+}]
